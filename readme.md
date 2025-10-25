@@ -24,4 +24,6 @@ Girdileri kullanıcıdan almanıza gerek yok şuanlık dedi ama ben tabii ki kul
     Nesnenin kaç saniye sonra nereye ne hızla düşeceğini
      hesapla, (Hava sürtünmesi olmadan, Klasik newton fiziği ile)
     10: Bileşik faiz hesapla
+
+    Hangi işlemi yapmak istiyorsunuz: 
 Aklıma bunlar geldi idare eder.
