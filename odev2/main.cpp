@@ -137,7 +137,7 @@ void draw_diamond(int half_rows, bool horizantal) {
 void draw_sine_wave(int amplitude, int length) {
     // print_header("7. Sinüs Dalgası (Karakter Çizimi)");
     const double PI = 3.14159265;
-    double period_factor = PI / 15.0; // Dalga sıkılığını ayarlar (daha az dalgalanma için artırın)
+    double period_factor = PI / 10.0; // Dalga sıkılığını ayarlar (daha az dalgalanma için artırın)
 
     for (int i = 0; i < length; ++i) { // X ekseni boyunca ilerleme
         // Sinüs değeri hesaplanır (i * periyot faktörü)
