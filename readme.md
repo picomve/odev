@@ -27,3 +27,10 @@ Girdileri kullanıcıdan almanıza gerek yok şuanlık dedi ama ben tabii ki kul
 
     Hangi işlemi yapmak istiyorsunuz: 
 Aklıma bunlar geldi idare eder.
+✔Programı yaptım ve çalışıyor ama sadece linux işletim sisteminde (çünkü ben linux masaüstü ortamında geliştirdim ve çalışıyor. Ama daha sonradan windowsta derlemeye çalıştığımda olmadı bende sktr ettim)
+
+# Ödev 2
+Ödev iki, hoca bizden sırayla ekrana ucu sağa, sola, aşağı ve yukarı bakan üçgen yazdıran ve birde kosinüs dalgası çizen bir program yapın dedi ben üçgenleri yaptım ez kolay ama kosinüs dalgası çizemedim Hz. gemini'ye sordum ve bana `cmath` kütüphanesinden sin fonkiyonunu kullanarak ekrana yazdıran bir fonksiyon yazdı sağolsun.
+
+# Ödev 3
+Ödev 3 aslında burda ödev yok, sadece derste işlediğimiz array konusu uygulamak için yaptığımız bir program, bir string değişkeninin tüm karakterlerini alt alta yazıyor hepsi bu
