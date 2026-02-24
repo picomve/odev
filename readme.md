@@ -3,7 +3,7 @@ Uludağ üniversitesi teknik bilimler myo 1. sınıf öğrenimim sırasında ver
 
 ödevlerin her birine spesifik bir numara vericeğim ayırt etmek için
 
-**NOT: Bu yazıları çok resmi veya sistematik yazmak zorunda falan değilim keyfim nası isterse öyle yazıcam repo benim sonuçta :D**
+**NOT: Bu yazıları çok resmi veya sistematik yazmak zorundalığım yok**
 
 # Ödev 1
 
